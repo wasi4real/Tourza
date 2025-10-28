@@ -1,2 +1,2 @@
 # Tourza
-In this DBMS project, I created an E-travel website. Successfully implemented CRUD operations.
+This was my first DBMS project where I created an E-travel website. It was basically an e-travel Agency website where a signed-in user can make bookings. The bookings involve flights, hotels, tour packages and rental car options. Also built relevant search filters along with each of these features. All these bookings lead to a checkout page that will then go into record in the bookings table once checkout is confirmed. Finally, it includes an Admin page that allows specific user types to view the bookings table and ban users and make changes to the bookings status. Successfully implemented CRUD operations.
